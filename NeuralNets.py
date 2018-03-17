@@ -30,4 +30,4 @@ def matrix(I,J):
     m = []
     for i in range(I):
         m.append([0.0]*J)
-    return ms
+    return m
