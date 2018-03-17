@@ -1,2 +1,2 @@
 Neural Network library for one hidden layer 
-Gradient Descent Bacpropagation and Sigmoid activation function
+Gradient Descent Backpropagation algorithm with Sigmoid activation function
